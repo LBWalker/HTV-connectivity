@@ -1,0 +1,9 @@
+# Python and Jupyter temporary files
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+
+# Simulation output data
+*.nc
+*.zarr/

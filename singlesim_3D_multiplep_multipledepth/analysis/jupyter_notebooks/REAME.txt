@@ -1,0 +1,1 @@
+This folder is used for code testing with jupyter notebooks. Go to the folder called 'slicer testing' to see the different notebooks. Unfortunately I didn't do good book keeping and now I can't remember which notebook is the master file, so just go and look for one. 
